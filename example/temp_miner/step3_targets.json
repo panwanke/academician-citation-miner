@@ -1,0 +1,311 @@
+[
+  {
+    "id": "https://openalex.org/A5086922344",
+    "name": "P. Bhattacharya",
+    "orcid": "https://orcid.org/0000-0003-1493-9820",
+    "papers_cited_in": 1,
+    "h_index": 78,
+    "cited_by_count": 27587,
+    "works_count": 1317,
+    "last_known_institution": "National Institute of Pharmaceutical Education and Research",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Open Science in the Developing World: A Collection of Practical Guides for Researchers in Developing Countries (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5025154104",
+    "name": "Jerome R. Busemeyer",
+    "orcid": "https://orcid.org/0000-0002-7594-1871",
+    "papers_cited_in": 1,
+    "h_index": 74,
+    "cited_by_count": 22994,
+    "works_count": 399,
+    "last_known_institution": "Indiana University Bloomington",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5062360625",
+    "name": "Andrew Heathcote",
+    "orcid": "https://orcid.org/0000-0003-4324-5537",
+    "papers_cited_in": 1,
+    "h_index": 57,
+    "cited_by_count": 13535,
+    "works_count": 387,
+    "last_known_institution": "University of Newcastle Australia",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5004105173",
+    "name": "Gordon D. Logan",
+    "orcid": "https://orcid.org/0000-0002-8301-7726",
+    "papers_cited_in": 1,
+    "h_index": 101,
+    "cited_by_count": 47742,
+    "works_count": 397,
+    "last_known_institution": "Met Office",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5058881122",
+    "name": "Thomas J. Palmeri",
+    "orcid": "https://orcid.org/0000-0001-7617-9797",
+    "papers_cited_in": 1,
+    "h_index": 50,
+    "cited_by_count": 9731,
+    "works_count": 191,
+    "last_known_institution": "Vanderbilt University",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5065318875",
+    "name": "Philip L. Smith",
+    "orcid": "https://orcid.org/0000-0002-2381-9372",
+    "papers_cited_in": 1,
+    "h_index": 54,
+    "cited_by_count": 14363,
+    "works_count": 218,
+    "last_known_institution": "University of Melbourne",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5051768325",
+    "name": "Mark Steyvers",
+    "orcid": "https://orcid.org/0000-0003-1466-5647",
+    "papers_cited_in": 1,
+    "h_index": 59,
+    "cited_by_count": 21427,
+    "works_count": 244,
+    "last_known_institution": "University of California, Irvine",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5074709577",
+    "name": "Scott Brown",
+    "orcid": "https://orcid.org/0000-0002-9060-6756",
+    "papers_cited_in": 1,
+    "h_index": 55,
+    "cited_by_count": 14895,
+    "works_count": 390,
+    "last_known_institution": "Parsons (United States)",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5032945266",
+    "name": "Birte U. Forstmann",
+    "orcid": "https://orcid.org/0000-0002-1005-1675",
+    "papers_cited_in": 1,
+    "h_index": 64,
+    "cited_by_count": 15447,
+    "works_count": 297,
+    "last_known_institution": "University of Amsterdam",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5007726637",
+    "name": "Ken A. Paller",
+    "orcid": "https://orcid.org/0000-0003-4415-4143",
+    "papers_cited_in": 2,
+    "h_index": 74,
+    "cited_by_count": 15856,
+    "works_count": 298,
+    "last_known_institution": "Northwestern University",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Aversive memories can be weakened during human sleep via the reactivation of positive interfering memories (2024)",
+      "Aversive memories can be weakened during human sleep via the reactivation of positive interfering memories (2023)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5049272593",
+    "name": "Michael N. Shadlen",
+    "orcid": "https://orcid.org/0000-0002-2002-2210",
+    "papers_cited_in": 2,
+    "h_index": 70,
+    "cited_by_count": 40902,
+    "works_count": 208,
+    "last_known_institution": "Allen Institute for Brain Science",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Human Exploration Strategically Balances Approaching and Avoiding Uncertainty (2024)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5068713594",
+    "name": "Daphna Shohamy",
+    "orcid": "https://orcid.org/0000-0003-4239-4960",
+    "papers_cited_in": 2,
+    "h_index": 51,
+    "cited_by_count": 12622,
+    "works_count": 174,
+    "last_known_institution": "MIND Research Institute",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Human Exploration Strategically Balances Approaching and Avoiding Uncertainty (2024)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5087277431",
+    "name": "Zhiqiang Xiong",
+    "orcid": "https://orcid.org/0000-0002-7984-3662",
+    "papers_cited_in": 1,
+    "h_index": 51,
+    "cited_by_count": 13079,
+    "works_count": 324,
+    "last_known_institution": "Jiangnan University",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Costs and benefits of temporal expectations on somatosensory perception and decision-making (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5010335917",
+    "name": "Christoph Kayser",
+    "orcid": "https://orcid.org/0000-0001-7362-5704",
+    "papers_cited_in": 1,
+    "h_index": 59,
+    "cited_by_count": 12871,
+    "works_count": 304,
+    "last_known_institution": "Bielefeld University",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Cross-modal congruency modulates evidence accumulation not decision thresholds (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5043401767",
+    "name": "Haoran Jiang",
+    "orcid": "https://orcid.org/0000-0002-3774-0059",
+    "papers_cited_in": 1,
+    "h_index": 54,
+    "cited_by_count": 8105,
+    "works_count": 207,
+    "last_known_institution": "Ningbo University of Technology",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Subjective value-weights on benefit and risk in human neurocomputation changes between conservative and risky decision-making (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5081904403",
+    "name": "Stefan Borgwardt",
+    "orcid": "https://orcid.org/0000-0002-5792-3987",
+    "papers_cited_in": 1,
+    "h_index": 85,
+    "cited_by_count": 38402,
+    "works_count": 735,
+    "last_known_institution": "Social Neuroscience Lab",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Prior Information Shapes Perceptual Evidence Accumulation Dynamics Differentially in Psychosis (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5071259609",
+    "name": "Jonas Obleser",
+    "orcid": "https://orcid.org/0000-0002-7619-0459",
+    "papers_cited_in": 1,
+    "h_index": 63,
+    "cited_by_count": 12138,
+    "works_count": 411,
+    "last_known_institution": "Brain (Germany)",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Prior Information Shapes Perceptual Evidence Accumulation Dynamics Differentially in Psychosis (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5010675602",
+    "name": "A. Q. Liu",
+    "orcid": "https://orcid.org/0000-0002-0126-5778",
+    "papers_cited_in": 1,
+    "h_index": 66,
+    "cited_by_count": 18895,
+    "works_count": 909,
+    "last_known_institution": "Beijing Institute of Technology",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "Desirability biases perceptual decisions in the aversive domain (2024)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5034685928",
+    "name": "Jianhuang Lai",
+    "orcid": "https://orcid.org/0000-0003-3883-2024",
+    "papers_cited_in": 1,
+    "h_index": 65,
+    "cited_by_count": 15384,
+    "works_count": 561,
+    "last_known_institution": "Sun Yat-sen University",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "The Impact of Memory and Stress on Choice Consistency (2024)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5010339174",
+    "name": "Lionel Naccache",
+    "orcid": "https://orcid.org/0000-0002-2874-1009",
+    "papers_cited_in": 1,
+    "h_index": 65,
+    "cited_by_count": 22382,
+    "works_count": 358,
+    "last_known_institution": "Centre National de la Recherche Scientifique",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "How sleeping minds decide: state-specific reconfigurations of lexical decision-making (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5069591541",
+    "name": "Isabelle Arnulf",
+    "orcid": "https://orcid.org/0000-0002-2240-2516",
+    "papers_cited_in": 1,
+    "h_index": 87,
+    "cited_by_count": 28441,
+    "works_count": 758,
+    "last_known_institution": "Centre National de la Recherche Scientifique",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "How sleeping minds decide: state-specific reconfigurations of lexical decision-making (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5020472362",
+    "name": "Ofir Turel",
+    "orcid": "https://orcid.org/0000-0002-6374-6382",
+    "papers_cited_in": 1,
+    "h_index": 58,
+    "cited_by_count": 13570,
+    "works_count": 364,
+    "last_known_institution": "California State University, Fullerton",
+    "wikipedia_url": null,
+    "citing_papers": [
+      "The Impact of Smoking Cues on Working Memory: Evidence from the Drift-Diffusion Model and EEG (2025)"
+    ]
+  }
+]

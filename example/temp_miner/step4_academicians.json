@@ -1,0 +1,60 @@
+[
+  {
+    "id": "https://openalex.org/A5025154104",
+    "name": "Jerome R. Busemeyer",
+    "h_index": 74,
+    "citations": 22994,
+    "institution": "Indiana University Bloomington",
+    "wikipedia_title": "List of American Academy of Arts and Sciences members (2006–2019)",
+    "matched_honors": [
+      "american academy of arts and sciences"
+    ],
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5004105173",
+    "name": "Gordon D. Logan",
+    "h_index": 101,
+    "citations": 47742,
+    "institution": "Met Office",
+    "wikipedia_title": "List of American Academy of Arts and Sciences members (2006–2019)",
+    "matched_honors": [
+      "american academy of arts and sciences"
+    ],
+    "citing_papers": [
+      "An Expert Guide to Planning Experimental Tasks For Evidence-Accumulation Modeling (2025)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5049272593",
+    "name": "Michael N. Shadlen",
+    "h_index": 70,
+    "citations": 40902,
+    "institution": "Allen Institute for Brain Science",
+    "wikipedia_title": "List of members of the National Academy of Sciences (systems neuroscience)",
+    "matched_honors": [
+      "academy of sciences",
+      "national academy"
+    ],
+    "citing_papers": [
+      "Human Exploration Strategically Balances Approaching and Avoiding Uncertainty (2024)"
+    ]
+  },
+  {
+    "id": "https://openalex.org/A5010339174",
+    "name": "Lionel Naccache",
+    "h_index": 65,
+    "citations": 22382,
+    "institution": "Centre National de la Recherche Scientifique",
+    "wikipedia_title": "Ghislaine Dehaene-Lambertz",
+    "matched_honors": [
+      "academy of sciences",
+      "national academy"
+    ],
+    "citing_papers": [
+      "How sleeping minds decide: state-specific reconfigurations of lexical decision-making (2025)"
+    ]
+  }
+]
